@@ -1,7 +1,8 @@
 # C
 C Code
  
-     These are my C programs
+     These are my C programs : I have not uploaded all of it yet as 
+     GITHUB is not accepting all the files ,but one at a  time
     Copyright (C) 2020- Anshul Birajdar <anshul.birajdar.tech AT gmail.com>
     This program is free (i.e libre see:https://www.gnu.org/philosophy/free-sw.en.html ) software: 
     you can redistribute it and/or modify it under the terms of the 
