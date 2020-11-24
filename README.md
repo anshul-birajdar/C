@@ -1,8 +1,8 @@
 # C
 C Code
-  <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
-
+ 
+     These are my C programs
+    Copyright (C) 2020- Anshul Birajdar <anshul.birajdar.tech AT gmail DOT com>
     This program is free (i.e libre see:https://www.gnu.org/philosophy/free-sw.en.html ) software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
