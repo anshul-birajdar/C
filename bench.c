@@ -43,7 +43,7 @@ int main(int argc,char **argv)
 {
         if(argc==1){
                 printf("The difficulty level is %d\n",DIFFICULTY);
-                printf("The number of levels are %d\n",LEVELS);
+                printf("The number of levels are %d\n",LEVELS+1);
                 printf("----TEST BEGINS----\n");
                 for(int i=1;i<TEST_VAL;i++)
                 {
