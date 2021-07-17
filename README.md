@@ -1,6 +1,6 @@
-C code
+Librebench
 
- *  This is the source code of the the program Anshul's Benchmarks
+ *  This is the source code of the the program LibreBench
  *
  *  Copyright (C) 2021 Anshul Birajdar <anshul.birajdar.tech AT gmail.com>
  *
