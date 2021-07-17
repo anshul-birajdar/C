@@ -1,5 +1,5 @@
 Librebench 
-
+/*
  *  This is the source code of the the program LibreBench
  *
  *  Copyright (C) 2021 Anshul Birajdar <anshul.birajdar.tech AT gmail.com>
@@ -20,5 +20,5 @@ Librebench
  *  To compile this:
  *  (on a UNIX/GNU-Linux system, and compiler,make installed, and comiler configured )
  *  $  make
-
+ */
 
